@@ -1,0 +1,25 @@
+/*header*/
+
+.jumbotron {
+  background-image: url("../images/ping.jpg");
+  background-size: cover;
+  padding-bottom: 10%;
+  background-attachment: fixed;
+  text-align: center;
+  font-family: serif;
+  color: white;
+}
+
+/*end of header*/
+
+/*button*/
+
+#button {
+  width: 800px;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #0000ff;
+}
+
+/*end of button*/

@@ -8,9 +8,35 @@
 
 <body>
 
+  <!--header-->
+  <div class="jumbotron">
+    <h1>PING-PONG</h1>
+  </div>
+  <!--end of header-->
 
-  <script src="js/jqeury-3.3.1.js"></script>
-  <script src="js/scripts.js"></script>
+  <!--rules-->
+  <div class="rules">
+    <h2>Rules:</h2>
+    <ul>
+      <li>Numbers divisible by 3 are replaced with "ping"</li>
+      <li>Numbers divisible by 5 are replaced with "pong"</li>
+      <li>Numbers divisible by 15 are replaced with "pingpong"</li>
+    </ul>
+  </div>
+  <!--end of rules-->
+
+  <form id="ping-pong">
+    <div class="form-group">
+      <label for="number">ENTERyournumber here:</label>
+      <input id="number" type="text">
+      <!--button-->
+
+      <div id="button">
+        <button autofocus="autofocus" style="color:red;border-radius:10px">Game On!</button>
+      </div>
+      <!--end of button-->
+      <script src="js/jqeury-3.3.1.js"></script>
+      <script src="js/scripts.js"></script>
 </body>
 
 </html>
