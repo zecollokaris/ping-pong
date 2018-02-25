@@ -8,3 +8,12 @@
 -Numbers divisible by 15 are replaced with "pingpong"
 
 #By Collins Kariuki with the help of Moringa School
+
+#Setup/Installation Requirements
+-Internet connection
+
+-webpage URL:
+
+-To get to this webpage fist you need to get to my github repository
+
+-The link to my github Repository is for this project is https://github.com/zecollokaris/zecollokaris.github.io
