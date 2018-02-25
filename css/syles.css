@@ -1,16 +1,24 @@
 /*header*/
 
 .jumbotron {
-  background-image: url("../images/ping.jpg");
-  background-size: cover;
-  padding-bottom: 10%;
+  background-color: black;
+  padding-top: 0%;
   background-attachment: fixed;
   text-align: center;
+  background-repeat: no-repeat;
   font-family: serif;
   color: white;
 }
 
 /*end of header*/
+
+/*Rules*/
+
+.rules {
+  color: #AF37C6;
+}
+
+/*End of Rules*/
 
 /*button*/
 
@@ -19,7 +27,15 @@
   text-align: center;
   font-weight: bold;
   cursor: pointer;
-  background-color: #0000ff;
 }
 
 /*end of button*/
+
+#open-menu, #close-menu {
+  position: absolute;
+  font-size: 300%
+}
+
+body {
+  background-image: url("../images/pingpong.png");
+}
