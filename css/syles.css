@@ -16,7 +16,6 @@
 
 .rules {
   color: #EF2917;
-  #AF37C6
 }
 
 /*End of Rules*/
@@ -39,4 +38,12 @@
 
 body {
   background-image: url("../images/pingpong.png");
+}
+
+#footer {
+  height: 20px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  padding-left: 2%
 }
